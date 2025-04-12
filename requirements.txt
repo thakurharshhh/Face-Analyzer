@@ -2,3 +2,11 @@ opencv-python
 deepface
 numpy
 
+Here’s what each library does:
+
+1. opencv-python: This is the OpenCV library, which is used for image processing and video capture in your project.
+
+2. deepface: This is the DeepFace library, which is used for facial recognition and analysis (like predicting age, gender, and emotions).
+
+3. numpy: This is a core scientific computing library in Python, used for numerical operations and working with arrays. 
+            OpenCV also depends on NumPy
