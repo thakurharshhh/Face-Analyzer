@@ -18,4 +18,5 @@
 1. Clone the repository:
    ```bash
 
-   git clone https://github.com/thakurharshhh/Face-Analyzer
+   git clone https://github.com/thakurharshhh/Face-Analyzer.git
+   
