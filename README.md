@@ -1,4 +1,4 @@
-# Face Analysis App 🎥🧠
+# Face Analyzer 🎥🧠
 
 This is a simple real-time face analysis app using Python, OpenCV, and DeepFace.
 
