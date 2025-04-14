@@ -52,7 +52,7 @@ while True:
     cv2.putText(frame, f"FPS: {fps}", (20, 450),
                 cv2.FONT_HERSHEY_SIMPLEX, 0.7, (255, 255, 0), 2)
 
-    # Show video
+    # Show video frame
     cv2.imshow("Face Analysis - Press 'q' to exit", frame)
 
     # Exit on 'q' key
