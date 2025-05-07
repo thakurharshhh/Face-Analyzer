@@ -1,4 +1,4 @@
-# **face-analyzer**
+# **Face-analyzer**
 
 **face-analyzer** is a Python tool that performs real-time facial analysis using your webcam. It detects faces and predicts key attributes such as age, gender, and dominant emotion. Built with **OpenCV** and **DeepFace**, this tool is ideal for projects that require face detection and analysis in real-time.
 
