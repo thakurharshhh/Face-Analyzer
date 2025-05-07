@@ -24,6 +24,7 @@ while True:
             enforce_detection=False,
             detector_backend='opencv'  # Fast and lightweight
         )
+        
         # Extract predictions
         age = results[0]['age']
         gender = results[0]['dominant_gender']
